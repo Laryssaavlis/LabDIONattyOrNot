@@ -8,7 +8,7 @@ Esse mapa apresenta um pouco sobre o Low Code, suas ferramentas, benefícios ect
 - Ferramenta de criação **[Mindmeister](https://www.mindmeister.com)** para a criação do mapa.
 
 ## 🧐 Processo de Criação
-Utilizei o chatGPT para saber mais informações sobre low code, como eu poderia montar um map e para criar um roteiro para mim
+Utilizei o chatGPT para saber mais informações sobre low code, como eu poderia montar um mapa e para criar um roteiro para mim
 
 ## 🚀 Resultados
 O Mapa apresenta um pouco da historia do Low code, alguns de seus beneficios, algumas das ferramentas que pode ser utilizada.
